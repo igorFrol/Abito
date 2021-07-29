@@ -293,8 +293,9 @@ body {
 .rating-counter {
   opacity: 0.5;
 }
-.button {
-  display: block;
+
+.button-pfone, .button-message{
+   display: block;
   width: 100%;
   height: 54px;
   background: #256eeb;
